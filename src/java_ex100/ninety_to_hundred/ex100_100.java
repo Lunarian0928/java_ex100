@@ -22,7 +22,7 @@ public class ex100_100 {
 			} else if (num < cpuNum) {
 				judge = "smaller";
 			}
-			System.out.println(judge);
+			
 		} 
 		scan.close();
 	}
